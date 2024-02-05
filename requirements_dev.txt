@@ -10,6 +10,7 @@ ipykernel
 pandas
 numpy
 seaborn
+matplotlib 
 
 
 pytest==7.1.3
